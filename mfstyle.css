@@ -1,0 +1,32 @@
+h1 {
+   
+    margin-bottom: 15px;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    background-color: black;
+  }
+
+  h2 {
+   
+    margin: 0 auto;
+    font-size: 20px;
+    color: black;
+    text-align: left;
+    background-color: white;
+  }
+
+  .pic {
+      height: 450px;
+      width: 450x;
+  }
+
+  .stuff {
+    margin: 0 auto;
+    font-size: 20px;
+    color: black;
+    text-align: left;
+    background-color: white;
+  }
+
